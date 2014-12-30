@@ -1,3 +1,6 @@
+## v0.2.1
+- Pierre-Luc - add name into metadata.md for Chef v12 support.
+
 ## v0.2.0
 - Pierre-Luc - license and Readme update
 
